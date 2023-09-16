@@ -1,4 +1,4 @@
-# Scheduling_simulation
+# The Compass Scheduling Simulation
 The Compass Scheduling Simulation
 At The Compass Food Bank, orders placed online are scheduled to be picked up from 9:30am, meaning that the order starting process needs to be initiated before then, and approximateyly 10 
 orders need to be packed by 9:30am. In order to successfully support the volunteers that pack the orders, the shelves have to be stocked according to the item's demand. Before this 
